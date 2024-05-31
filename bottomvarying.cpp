@@ -4,6 +4,7 @@
 #define MAXSIZE 5
 
 using namespace std;
+//added
 
 class stack{
     int bos, s[MAXSIZE];
